@@ -1,0 +1,31 @@
+#edit-post {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+  }
+  #edit-post:hover {
+    opacity: 0.6;
+    cursor: pointer;
+  }
+
+  #delete-post {
+    background-color: #c6363d; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+  }
+  #delete-post:hover {
+    opacity: 0.6;
+    cursor: pointer;
+  }
